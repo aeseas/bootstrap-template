@@ -4,7 +4,8 @@ name assignemt: `filrouge-0-guerrilla`<br>
 
 Rebuild if an existent outdated website with a Bootstrap Template.
 
-[link here](https://aeseas.github.io/filrouge-0-guerrilla)
+[link to new website here](https://aeseas.github.io/filrouge-0-guerrilla)
+[link to original website here](https://www.changewithimpact.be/)
 
 ## Install
     $ git clone https://github.com/aeseas/arabic-quotes.git
