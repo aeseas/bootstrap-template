@@ -7,8 +7,7 @@ Rebuild if an existent outdated website with a Bootstrap Template.
 [link to new website here](https://aeseas.github.io/filrouge-0-guerrilla) <br>
 [link to original website here](https://www.changewithimpact.be/)
 
-## Install
+## Clone
     $ git clone https://github.com/aeseas/bootstrap-template.git
-    $ cd arabic-quotes
-    $ npm install
-    $ node index.js
+    $ cd bootstrap-template
+    $ code .
