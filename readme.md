@@ -4,7 +4,7 @@ name assignemt: `filrouge-0-guerrilla`<br>
 
 Rebuild if an existent outdated website with a Bootstrap Template.
 
-[link to new website here](https://aeseas.github.io/filrouge-0-guerrilla) <br>
+[link to new website here](https://aeseas.github.io/bootstrap-template/) <br>
 [link to original website here](https://www.changewithimpact.be/)
 
 ## Clone
